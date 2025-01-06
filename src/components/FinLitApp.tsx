@@ -295,7 +295,7 @@ export default function FinLitApp() {
             </div>
 
             <div className="text-center">
-              <div className="text-3xl font-bold mb-2">0,90€<span className="text-sm font-normal">/month</span></div>
+              <div className="text-3xl font-bold mb-2">4,95€<span className="text-sm font-normal">/month</span></div>
               <div className="text-green-400 text-sm mb-4">Student Green Deal</div>
               <button 
                 className="w-full bg-gradient-to-r from-green-600 to-purple-600 py-3 rounded-xl mb-2"
