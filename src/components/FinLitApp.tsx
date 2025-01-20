@@ -29,7 +29,7 @@ export default function FinLitApp() {
     },
     {
       id: 2,
-      name: 'Lea Green',
+      name: 'Lena Green',
       title: 'ESG Investor',
       bio: '19 J. | Sustainable Finance 🌱 | Impact > Returns',
       level: 'Level 6',
@@ -47,7 +47,7 @@ export default function FinLitApp() {
 
   const finfluencers = [
     { id: 1, name: 'Finn', handle: '@cryptofinn', followers: '10.2K', content: 'Crypto & Tech', tags: ['#Bitcoin', '#Trading', '#Web3'], isPremium: true },
-    { id: 2, name: 'Lea', handle: '@greenlea', followers: '8.5K', content: 'ESG & Impact', tags: ['#Sustainable', '#GreenInvesting', '#Impact'], isPremium: true }
+    { id: 2, name: 'Lena', handle: '@greenlena', followers: '8.5K', content: 'ESG & Impact', tags: ['#Sustainable', '#GreenInvesting', '#Impact'], isPremium: true }
   ];
 
   const impactData = [
